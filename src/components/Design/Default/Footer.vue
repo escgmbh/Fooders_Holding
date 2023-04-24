@@ -13,8 +13,9 @@
                 </div>
             </div>
         </div>
-        <div class="bg-foodersBG h-64 flex items-center justify-center">
-            <div class="flex flex-row gap-4">
+        <div>
+            <img src="@/assets/images/Background.png" alt="" />
+            <div class="flex flex-row gap-3 -mt-20 justify-center">
                 <a
                     href=""
                     target="_blank"
@@ -77,5 +78,6 @@
                 </a>
             </div>
         </div>
+        <div class="h-20 bg-green-900"></div>
     </div>
 </template>

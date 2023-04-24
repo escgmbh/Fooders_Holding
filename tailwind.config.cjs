@@ -19,6 +19,7 @@ module.exports = {
                 foordersuberblickBG: '#EFEDE9',
                 foodersBG: '#247F53',
                 fooderswhiteText: '#F9F8F3',
+                foodersDarkGreenBG: '',
             },
             fontFamily: {
                 khula: ['Khula', 'sans-serif'],
