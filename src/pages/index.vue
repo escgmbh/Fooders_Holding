@@ -1,5 +1,7 @@
-<script setup></script>
+<script setup>
+import Hero from '@/components/Index/Hero.vue';
+</script>
 
-<template>TEST</template>
+<template><Hero /></template>
 
 <style></style>
