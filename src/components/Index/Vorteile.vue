@@ -5,11 +5,11 @@
             class="bg-foodersBG h-60 text-fooderswhiteText text-4xl font-bold text-center"
         >
             <div class="flex justify-center">
-                <p class="">Vorteile h1</p>
+                <p class="mt-10">Vorteile h1</p>
             </div>
         </div>
         <div class="-mt-24 flex flex-row gap-14 px-28">
-            <div class="block rounded-lg bg-white shadow-2xl px-6 py-6">
+            <div class="block rounded-lg bg-cardBG shadow-2xl px-6 py-6">
                 <div class="mx-auto w-24 h-24 overflow-hidden rounded-full">
                     <img
                         src="@/assets/images/FoodersLogo.png"
@@ -21,7 +21,7 @@
                     diam nonumy eirmod tempor invidunt ut labore
                 </div>
             </div>
-            <div class="block rounded-lg bg-white shadow-2xl px-6 py-6">
+            <div class="block rounded-lg bg-cardBG shadow-2xl px-6 py-6">
                 <div class="mx-auto w-24 h-24 overflow-hidden rounded-full">
                     <img
                         src="@/assets/images/FoodersLogo.png"
@@ -33,7 +33,7 @@
                     diam nonumy eirmod tempor invidunt ut labore
                 </div>
             </div>
-            <div class="block rounded-lg bg-white shadow-2xl px-6 py-6">
+            <div class="block rounded-lg bg-cardBG shadow-2xl px-6 py-6">
                 <div class="mx-auto w-24 h-24 overflow-hidden rounded-full">
                     <img
                         src="@/assets/images/FoodersLogo.png"
