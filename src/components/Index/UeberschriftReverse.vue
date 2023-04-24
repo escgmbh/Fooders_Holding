@@ -4,10 +4,10 @@
         <div class="md:flex md:flex-row">
             <div class="w-6/12 flex justify-center items-center px-10">
                 <div class="">
-                    <h1 class="text-foodersdark text-4xl font-bold">
+                    <h1 class="text-foodersdark text-4xl font-bold text-right">
                         Überschrift h1
                     </h1>
-                    <p class="text-foodersdark mt-4">
+                    <p class="text-foodersdark mt-4 text-right">
                         Lorem, ipsum dolor sit amet consectetur adipisicing
                         elit. Eos est, fuga debitis minima asperiores in
                         deleniti, hic libero exercitationem rerum enim nihil
@@ -20,7 +20,7 @@
                     </p>
                 </div>
             </div>
-            <div class="w-auto md:w-6/12">
+            <div class="w-auto md:w-6/12 ml-10">
                 <img src="@/assets/images/Uebersicht.png" alt="" />
             </div>
         </div>
