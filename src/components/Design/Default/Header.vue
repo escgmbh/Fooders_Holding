@@ -1,24 +1,24 @@
 <script setup></script>
 <template>
-    <div class="header h-24 flex flex-col bg-cover bg-black justify-center">
-        <div class="flex justify-center items-center h-screen bg-white">
+    <div class=" w-full px-64">
+        <div class=" items-center bg-baseoffwhite">
             <div
-                class="flex flex-row justify-between w-full max-w-screen-lg mx-auto"
+                class="flex flex-row justify-between w-full  mx-auto"
             >
                 <div class="w-1/4 flex flex-row justify-between self-center">
-                    <placeholder class="text-orange-500">coming </placeholder>
-                    <placeholder class="text-orange-500">soon</placeholder>
+                    <placeholder class="text-foodersorange">coming </placeholder>
+                    <placeholder class="text-foodersorange">soon</placeholder>
                 </div>
-                <div class="w-1/2 flex justify-center mt-14">
+                <div class="w-1/2 flex justify-center mt-4">
                     <img
                         src="@/assets/images/FoodersLogo.png"
                         alt=""
-                        class="max-w-full max-h-full"
+                        class="max-w-full "
                     />
                 </div>
                 <div class="w-1/4 flex flex-row justify-between self-center">
-                    <placeholder class="text-orange-500">stay</placeholder>
-                    <placeholder class="text-orange-500">excited</placeholder>
+                    <placeholder class="text-foodersorange">stay</placeholder>
+                    <placeholder class="text-foodersorange">excited</placeholder>
                 </div>
             </div>
         </div>

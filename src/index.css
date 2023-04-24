@@ -4,5 +4,8 @@
 
 
 html {
-    @apply font-lato;
+    @apply font-khula w-screen bg-baseoffwhite;
+}
+body {
+    @apply w-screen bg-baseoffwhite;
 }

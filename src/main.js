@@ -1,6 +1,6 @@
 import { createApp } from 'vue';
 import './index.css';
-import './lato.css';
+import './khula.css';
 import { createRouter, createWebHistory } from 'vue-router';
 import App from './App.vue';
 import routes from '~pages';
