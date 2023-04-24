@@ -11,7 +11,7 @@
                 </div>
                 <div class="w-1/2 flex justify-center mt-14">
                     <img
-                        src="src/assets/images/FoodersLogo.png"
+                        src="@/assets/images/FoodersLogo.png"
                         alt=""
                         class="max-w-full max-h-full"
                     />
