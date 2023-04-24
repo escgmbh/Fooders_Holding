@@ -1,11 +1,11 @@
 <script setup></script>
 <template>
-    <div class="">
-        <div class="flex flex-row gap-10 w-full">
-            <div class="bg-slate-300 w-6/12">
+    <div class="py-44">
+        <div class="md:flex md:flex-row">
+            <div class="w-auto md:w-6/12 mr-10">
                 <img src="@/assets/images/Uebersicht.png" alt="" />
             </div>
-            <div class="w-6/12 flex justify-center items-center">
+            <div class="w-6/12 flex justify-center items-center px-10">
                 <div class="">
                     <h1 class="text-foodersdark text-4xl font-bold uppercase">
                         Überschrift 1
