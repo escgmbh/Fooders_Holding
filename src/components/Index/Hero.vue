@@ -1,8 +1,8 @@
 <script></script>
 <template>
 
-   <div class="bg-[url('/images/FoodersLanding.png')] h-heroimg w-full bg-no-repeat bg-contain flex justify-center">
-        <div class="bg-baseoffwhite/90 flex flex-col w-1/3 mb-2 p-14 absolute bottom-[28rem]">
+   <div class="bg-[url('/images/FoodersLanding.png')] h-heroimg w-full bg-no-repeat bg-contain flex justify-center relative">
+        <div class="bg-baseoffwhite/90 flex flex-col w-1/3 mb-2 p-14 absolute bottom-6">
             <h2 class="text-foodersgreen text-3xl">FOODERS</h2>
             <h1 class="text-foodersdark text-4xl uppercase">taste your life</h1>
             <p class="text-foodersdark">
