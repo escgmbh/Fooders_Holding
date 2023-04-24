@@ -6,8 +6,8 @@
                 <div class="flex">
                     <img
                         src="@/assets/images/FoodersLogo.png"
-                        alt=""
-                        class="max-w-full"
+                        alt="logo of Fooders"
+                        class="w-40"
                         style="display: block; margin: 0 auto"
                     />
                 </div>
