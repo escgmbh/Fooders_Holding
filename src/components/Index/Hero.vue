@@ -6,7 +6,7 @@
         <div class="hero-overlay bg-opacity-0 bg:gray-200"></div>
         <div class="hero-content text-center text-neutral-content">
             <div class="max-w-md mx-auto text-white">
-                <h3 class="mb-5 text-2xl font-bold uppercase text-green-400">
+                <h3 class="mb-5 text-3xl font-bold uppercase text-green-400">
                     fooders
                 </h3>
                 <h1 class="mb-5 text-5xl font-bold uppercase">
