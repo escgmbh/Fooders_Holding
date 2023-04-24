@@ -7,8 +7,8 @@
             </div>
             <div class="w-6/12 flex justify-center items-center px-10">
                 <div class="">
-                    <h1 class="text-foodersdark text-4xl font-bold uppercase">
-                        Überschrift 1
+                    <h1 class="text-foodersdark text-4xl font-bold">
+                        Überschrift h1
                     </h1>
                     <p class="text-foodersdark mt-4">
                         Lorem, ipsum dolor sit amet consectetur adipisicing
