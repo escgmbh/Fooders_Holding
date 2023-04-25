@@ -13,13 +13,12 @@
                 </div>
             </div>
         </div>
-        <div>
-            <img
-                src="@/assets/images/Background.png"
-                alt=""
-                class="h-60 w-full object-cover md:object-fill"
-            />
-            <div class="flex flex-row gap-3 -mt-20 md:-mt-20 justify-center">
+        <div
+            class="bg-[url('/images/Background.png')] h-96 md:h-64 w-full bg-fill bg-top bg-no-repeat flex flex-col"
+        >
+            <div
+                class="flex flex-row gap-3 h-52 md:h- mt-10 items-center justify-center"
+            >
                 <a
                     href=""
                     target="_blank"
@@ -81,14 +80,18 @@
                     </svg>
                 </a>
             </div>
-        </div>
-        <div class="h-20 bg-green-900">
             <div
-                class="flex flex-row gap-10 justify-center items-center text-fooderswhiteText bg-green-900 h-10"
+                class="z-50 bg-green-900 flex md:hidden h-16 flex-row gap-5 px-4 items-center justify-center text-fooderswhiteText"
             >
-                <a href="" class="">Impressum</a
-                ><a href="" class="">Datenschutz</a>
+                <a href="" class="">Datenschutz</a>
+                <a href="" class="">Impressum</a>
             </div>
+        </div>
+        <div
+            class="z-30 bg-green-900 h-16 md:-mt-16 hidden md:flex md:flex-row gap-5 px-4 justify-end items-center text-fooderswhiteText"
+        >
+            <a href="" class="">Datenschutz</a>
+            <a href="" class="">Impressum</a>
         </div>
     </div>
 </template>

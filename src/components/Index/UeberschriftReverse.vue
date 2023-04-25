@@ -1,6 +1,6 @@
 <script setup></script>
 <template>
-    <div class="py-32">
+    <div class="py-10 md:py-32">
         <div class="flex flex-col-reverse md:flex md:flex-row">
             <div class="md:w-6/12 flex justify-center items-center px-10 mt-4">
                 <div class="">

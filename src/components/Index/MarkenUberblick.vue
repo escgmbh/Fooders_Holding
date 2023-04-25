@@ -1,14 +1,14 @@
 <script setup></script>
 <template>
     <div
-        class="bg-foordersuberblickBG w-full h-60 md:h-48 flex flex-wrap justify-between items-center"
+        class="bg-foordersuberblickBG mx-4 w-full h-60 md:h-52 grid grid-cols-2 md:grid-cols-5 gap-3 content-center my-4 place-items-center space-y-1"
     >
         <div
-            class="hidden sm:block w-28 h-28 rounded-full bg-gray-300 mb-4"
+            class="hidden sm:block w-24 h-24 rounded-full bg-gray-300 mb-4"
         ></div>
-        <div class="w-28 h-28 rounded-full bg-gray-300 mb-4"></div>
-        <div class="w-28 h-28 rounded-full bg-gray-300 mb-4"></div>
-        <div class="w-28 h-28 rounded-full bg-gray-300 mb-4"></div>
-        <div class="w-28 h-28 rounded-full bg-gray-300 mb-4"></div>
+        <div class="w-24 h-24 rounded-full bg-gray-300 mb-4"></div>
+        <div class="w-24 h-24 rounded-full bg-gray-300 mb-4"></div>
+        <div class="w-24 h-24 rounded-full bg-gray-300 mb-4"></div>
+        <div class="w-24 h-24 rounded-full bg-gray-300 mb-4"></div>
     </div>
 </template>
