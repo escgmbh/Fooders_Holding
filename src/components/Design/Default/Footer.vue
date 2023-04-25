@@ -14,8 +14,12 @@
             </div>
         </div>
         <div>
-            <img src="@/assets/images/Background.png" alt="" />
-            <div class="flex flex-row gap-3 -mt-20 justify-center">
+            <img
+                src="@/assets/images/Background.png"
+                alt=""
+                class="h-60 w-full object-cover md:object-fill"
+            />
+            <div class="flex flex-row gap-3 -mt-20 md:-mt-20 justify-center">
                 <a
                     href=""
                     target="_blank"
@@ -78,6 +82,13 @@
                 </a>
             </div>
         </div>
-        <div class="h-20 bg-green-900"></div>
+        <div class="h-20 bg-green-900">
+            <div
+                class="flex flex-row gap-10 justify-center items-center text-fooderswhiteText bg-green-900 h-10"
+            >
+                <a href="" class="">Impressum</a
+                ><a href="" class="">Datenschutz</a>
+            </div>
+        </div>
     </div>
 </template>
