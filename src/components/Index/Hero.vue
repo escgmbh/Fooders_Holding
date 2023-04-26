@@ -9,10 +9,10 @@
             <h2 class="text-foodersgreen text-3xl">FOODERS</h2>
             <h1 class="text-foodersdark text-4xl uppercase">taste your life</h1>
             <p class="text-foodersdark">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos
-                earum, ipsa assumenda neque quis autem amet dignissimos magni
-                quia recusandae, cupiditate magnam error voluptatibus. A harum
-                eaque iste quia placeat.
+                Fooders promotes healthy food through its subsidiaries, offering
+                consumers high-quality, diverse and nutritious options. Based in
+                Hamburg Germany, we focus on sustainability, quality, and
+                innovation has made us a leading player in the industry.
             </p>
             <div class="flex flex-col md:flex-row justify-between mt-2 gap-4">
                 <button

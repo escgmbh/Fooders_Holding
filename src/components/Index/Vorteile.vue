@@ -5,7 +5,7 @@
             class="bg-foodersBG h-40 md:h-60 text-fooderswhiteText text-4xl font-bold text-center"
         >
             <div class="flex justify-center">
-                <p class="mt-16 md:mt-10">Vorteile h1</p>
+                <h1 class="mt-16 md:mt-10">Vorteile h1</h1>
             </div>
         </div>
         <div
