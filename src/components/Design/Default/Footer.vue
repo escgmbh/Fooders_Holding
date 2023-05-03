@@ -90,8 +90,9 @@
         <div
             class="z-30 bg-green-900 h-16 md:-mt-16 hidden md:flex md:flex-row gap-5 px-4 justify-end items-center text-fooderswhiteText"
         >
-            <a href="" class="">Datenschutz</a>
-            <a href="" class="">Impressum</a>
+            <router-link to="/datenschutz"> Datenschutz </router-link>
+            <!-- <a href="" class="">Impressum</a> -->
+            <router-link to="/impressum"> Impressum </router-link>
         </div>
     </div>
 </template>
